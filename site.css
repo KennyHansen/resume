@@ -1,0 +1,58 @@
+body{
+    font-family: fantasy;
+}
+
+header {
+    background-color: #c0c060;
+    font-size: 48px;
+    color: #ffffaa;
+    margin: 
+}
+
+header>img {
+    width: 100%;
+}
+
+footer {
+    background-color: #c0c060;
+    font-size: 24px;
+    color: #ffffaa;
+}
+
+hr {
+    min-height: 10px;
+    background-color: deepskyblue;
+}
+
+.contact>h2 {
+    text-align: center;
+}
+
+
+
+.contact {
+    margin-bottom: 5px;
+    width:100%;
+    text-align: center;
+    background-color: skyblue;
+}
+
+.col1 {
+    background-color:white;
+    padding:0 3.3333% 0 3.33333% 
+}
+
+.col2 {
+    color:white;
+    background-color: deepskyblue;
+}
+
+.workwork {
+    color:black;
+    background-color:#c0c060;
+    width:100%;
+    padding: 20px;
+}
+.workwork>h2 {
+    text-align: center;
+}
